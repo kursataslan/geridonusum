@@ -1,0 +1,142 @@
+
+
+.topmenu {
+
+	margin-top:  5px;
+	font-size: 17px;
+	font-family:arial;
+}
+
+ #geridonusummenuac li:hover {
+
+	/*background-color: green;*/
+	background: rgb(0 255 0);
+}
+
+
+.search-icon {
+
+	margin-left:-25px;
+}
+
+.logo-hizala {
+
+	margin-top: -20px;
+	margin-top:  5px;
+}
+
+
+.carousel {
+    margin-top: 15px;
+	margin-left: 188px;
+	margin-bottom: 15px;
+	width: 500px; 
+
+
+}
+
+#satır {
+
+margin-bottom: 65px;
+}
+
+#satır  h3,h6  {
+
+
+color: black;
+font-style: italic  ;
+font-family: arial ;
+background: rgb(242 242 242);
+text-align: center;
+
+}
+
+.galeri-aralik {
+
+	margin-top: 60px;
+}
+
+
+	
+	#blog p {
+		width: 500px;
+    overflow: hidden; /* taşanları gizle */
+    white-space: nowrap; /* alt satıra hiç inme */
+    text-overflow: ellipsis; /* eğer uzunsa üç nokta koy */
+
+	}
+
+
+ /* FOOTER KISMI */
+
+footer {
+    background: green;
+    text-align: center;
+}
+
+#foot .col3 {
+  /* flex-grow: 1; /*  Sütun uzunlukları birbirine eşit olur*/
+  /*  width:33.33%; /* kolonların genişliği birbirine eşit olsun.3 kolon olduğu için %33.33 oranında eşit olurlar.*/ 
+}
+
+.footerText {
+    padding: 20px;
+}
+
+.footerText a { 
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+a:hover  {
+    text-decoration: underline;    
+}
+
+footer h2 {
+    color: black;
+    font-size: 26px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;  
+}
+
+footer p {
+    color: black;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.list-unstyled li {
+    color: white;
+    padding-bottom: 15px;
+}
+footer .fa {
+    font-size: 30px; 
+    color: #fff;
+    line-height: 50px;
+    transition: .3s ease;
+}
+
+.sosyalmedya li {
+    display: inline-block; /*ikonlar yanyana gelmiş oldu.*/
+    width: 50px;
+    height: 50px;
+}
+.hakyazı h1{
+    font-size: 30px;
+    margin-left: 480px;
+}
+.hakyazı{
+    background-color: white;
+    padding :10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.iletişim{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ 
