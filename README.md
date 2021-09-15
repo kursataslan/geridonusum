@@ -1,2 +1,2 @@
 # geridonusum
-web site
+Geri Dönüşüm bilgilendirme web sitesi
